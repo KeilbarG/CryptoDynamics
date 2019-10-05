@@ -4,7 +4,7 @@ Published in : 'Cointegration and Cryptocurrency Dynamics in High Dimensions'
 
 Description : 'Plots the log-prices of the 20 largest cryptocurrencies over a period from October 2017 - October 2019.'
 
-Keywords : Cryptocurrencies, CRIX, Cointegration, Scraping
+Keywords : Cryptocurrencies, CRIX, Cointegration, Time series
 
 See also : 'CryptoDynamics_Estimation, Crypto_Dynamics_Wachter, CryptoDynamics_Scraping'
 

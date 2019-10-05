@@ -1,1 +1,13 @@
+Name of QuantLet : CryptoDynamics_Estimation
 
+Published in : 'Cointegration and Cryptocurrency Dynamics in High Dimensions'
+
+Description : 'Estimates the vector error correction model coefficients in a multivariate time series of cryptocurrencies.'
+
+Keywords : Cryptocurrencies, CRIX, Cointegration, Scraping
+
+See also : 'CryptoDynamics_Series, Crypto_Dynamics_Wachter, CryptoDynamics_Scraping'
+
+Author : Georg Keilbar, Yanfen Zhang
+
+Submitted : October 5 2019 by Georg Keilbar

@@ -1,1 +1,13 @@
+Name of QuantLet : CryptoDynamics_Series
 
+Published in : 'Cointegration and Cryptocurrency Dynamics in High Dimensions'
+
+Description : 'Plots the log-prices of the 20 largest cryptocurrencies over a period from October 2017 - October 2019.'
+
+Keywords : Cryptocurrencies, CRIX, Cointegration, Scraping
+
+See also : 'CryptoDynamics_Estimation, Crypto_Dynamics_Wachter, CryptoDynamics_Scraping'
+
+Author : Georg Keilbar, Yanfen Zhang
+
+Submitted : October 5 2019 by Georg Keilbar

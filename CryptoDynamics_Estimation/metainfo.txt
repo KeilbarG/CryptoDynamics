@@ -4,7 +4,7 @@ Published in : 'Cointegration and Cryptocurrency Dynamics in High Dimensions'
 
 Description : 'Estimates the vector error correction model coefficients in a multivariate time series of cryptocurrencies.'
 
-Keywords : Cryptocurrencies, CRIX, Cointegration, Scraping
+Keywords : Cryptocurrencies, CRIX, Cointegration, Estimation, VECM
 
 See also : 'CryptoDynamics_Series, Crypto_Dynamics_Wachter, CryptoDynamics_Scraping'
 
